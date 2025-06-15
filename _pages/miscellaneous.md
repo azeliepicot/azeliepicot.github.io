@@ -11,7 +11,7 @@ author_profile: true
 ### 2025
 - [**Infinity-Operads and Applications to Geometry**](https://www.math.ku.dk/english/calendar/events/infinity-operads-and-manifolds/), August 2025, Copenhagen, GeoTop Center
 
-- [**Cobordism categories: Building bridges between algebra and geometry**](https://www.math.ku.dk/english/calendar/events/cobordism-categories_copy/) – February 2025, Copenhagen, GeoTop Center
+- [**Cobordism categories: Building bridges between algebra and geometry**](https://www.math.ku.dk/english/calendar/events/cobordism-categories_copy/), February 2025, Copenhagen, GeoTop Center
 
 # Reading Seminars (co)organized
 
