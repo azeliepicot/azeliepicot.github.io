@@ -24,7 +24,7 @@ And now the wall during golden hour:
 
 Finally, here is the post-its wall with my rainbowlike post-its: 
 
-<img src="/images/Post-Its-Rainbow.jpeg" alt="Rainbow" height="500">
+<img src="/images/Post-Its-Rainbow.jpeg" alt="Rainbow" width="700">
 
 The post-its wall does not have a color code, however most greenish post-its are about manifolds. 
 
