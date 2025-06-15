@@ -16,14 +16,16 @@ Here is a picture of me in front of the post-its wall:
 
 <img src="/images/postitswall1.jpeg" alt="In front of the wall" width="700">
 
-And there during golden hour: 
+And now the wall during golden hour: 
 
-<img src="/images/Postits2.jpeg" alt="Golden Hour 1" width="700">
+<img src="/images/goldenhour.jpeg" alt="Golden Hour 1" width="700">
 
-Here is the post-its wall with my rainbowlike post-its: 
+<img src="/images/Postits2.jpeg" alt="Golden Hour 2" width="700">
+
+Finally, here is the post-its wall with my rainbowlike post-its: 
 
 <img src="/images/Post-Its-Rainbow.jpeg" alt="Rainbow" height="700">
 
-The post-its wall does not have a color code. 
+The post-its wall does not have a color code, however most greenish post-its are about manifolds. 
 
 
