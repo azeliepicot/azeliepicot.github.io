@@ -1,5 +1,5 @@
 ---
-title: "Miscellaneous"
+title: ""
 permalink: /miscellaneous/
 layout: archive
 author_profile: true
