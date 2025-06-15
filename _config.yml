@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "profilewebsite.jpeg"
   name             : "Azélie Picot"
-  pronouns         :  example: "she/her"  
+  pronouns         :  "she/her"  
   bio              : "PhD student in Algebraic Topology"
   location         : "University of Copenhagen"
   employer         : #"Red Brick University"
