@@ -14,6 +14,8 @@ Here is a picture of me in front of the post-its wall:
 
 ![In front of the wall](/images/postitswall1.jpeg)
 
+<img src="/images/postitswall1.jpeg" alt="In front of the wall" width="400">
+
 And there during golden hour: 
 
 ![Golden Hour](/images/Postits2.jpeg)
