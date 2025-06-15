@@ -22,7 +22,7 @@ And there during golden hour:
 
 Here is the post-its wall with my rainbowlike post-its: 
 
-<img src="/images/Post-Its-Rainbow.jpeg" alt="Rainbow" width="700">
+<img src="/images/Post-Its-Rainbow.jpeg" alt="Rainbow" height="700">
 
 The post-its wall does not have a color code. 
 
