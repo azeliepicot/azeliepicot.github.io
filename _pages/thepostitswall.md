@@ -14,10 +14,13 @@ Here is a picture of me in front of the post-its wall:
 
 ![In front of the wall](/images/postitswall1.jpeg)
 
+And there during golden hour: 
+
+![Golden Hour](/images/Postits2.jpeg)
 
 Here is the post-its wall with my rainbowlike post-its: 
 
-
+![Rainbow](/images/Post-Its-Rainbow.jpeg)
 
 Some may be outdated and contain mistakes. 
 
