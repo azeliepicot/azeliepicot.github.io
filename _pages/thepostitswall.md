@@ -12,6 +12,9 @@ On each one of them, there is either a definition, a useful trick, a theorem, a 
 
 Here is a picture of me in front of the post-its wall: 
 
+![In front of the wall](/images/postitswall1.jpeg)
+
+
 Here is the post-its wall with my rainbowlike post-its: 
 
 
