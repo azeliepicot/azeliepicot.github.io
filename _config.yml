@@ -24,10 +24,10 @@ author:
   # Biographic information
   avatar           : "profilewebsite.jpeg"
   name             : "Azélie Picot"
-  pronouns         :  "she/her"  
+  pronouns         : "she/her"  
   bio              : "PhD student in Algebraic Topology"
-  location         : "University of Copenhagen"
-  employer         : #"Red Brick University"
+  location         : #"University of Copenhagen"
+  employer         : "University of Copenhagen"
   uri              : # URL
   email            : #"none@example.org" 
 
@@ -36,7 +36,7 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-9484-8875"
   semantic         : # URL
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
