@@ -11,8 +11,8 @@ main:
   - title: "The Post-Its Wall"
     url: /thepostitswall/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "courses"
+    url: /courses/    
 
   - title: "Miscellaneous"
     url: /miscellaneous/    
