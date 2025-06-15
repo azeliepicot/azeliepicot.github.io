@@ -12,7 +12,7 @@ On each one of them, there is either a definition, a useful trick, a theorem, a 
 
 Here is a picture of me in front of the post-its wall: 
 
-Here is the post-its wall with my rainbowy post-its: 
+Here is the post-its wall with my rainbowlike post-its: 
 
 
 
