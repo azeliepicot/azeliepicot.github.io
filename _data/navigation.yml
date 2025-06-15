@@ -8,8 +8,8 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  - title: "The Post-Its Wall"
-    url: /thepostitswall/
+  - title: "Papers"
+    url: /papers/
 
   - title: "Teaching"
     url: /courses/    
@@ -17,8 +17,8 @@ main:
   - title: "Miscellaneous"
     url: /miscellaneous/    
     
-  - title: "Papers"
-    url: /papers/
+  - title: "The Post-Its Wall"
+    url: /thepostitswall/
     
   # - title: "CV"
   #   url: /cv-json/
