@@ -1,9 +1,10 @@
 ---
-title: "" 
+title: "Teaching" 
 permalink: /courses/
 layout: archive
 author_profile: true
-
+description: "my teaching experiences"
+hide_title: true
 ---
 
 # Teaching Assistant
