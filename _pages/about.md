@@ -2,7 +2,7 @@
 permalink: /
 title: "About me"
 author_profile: true
-description: "Main page of the website, with professional information about myself as well as list of talks I gave"  # <-- Add this line
+description: "Academic Webpage of Azélie Picot, PhD student in Algebraic Topology at the University of Copenhagen"  # <-- Add this line
 redirect_from: 
   - /about/
   - /about.html
