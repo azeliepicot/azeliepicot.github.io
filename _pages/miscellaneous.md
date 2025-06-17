@@ -1,9 +1,10 @@
 ---
-title: ""
+title: "Miscellaneous"
 permalink: /miscellaneous/
 layout: archive
 author_profile: true
 description: "Diverse activities such as (co)organization of conferences, reading seminars...etc."  # <-- Add this line
+hide_title: true
 
 ---
 
