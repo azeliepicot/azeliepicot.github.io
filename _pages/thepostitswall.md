@@ -3,6 +3,7 @@ title: "The Post-Its Wall"
 permalink: /thepostitswall/
 layout: archive
 author_profile: true
+description: "Mathematicals Notes I made during my PhD"
 
 ---
 
