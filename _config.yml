@@ -27,7 +27,7 @@ author:
   pronouns         : "she/her"  
   bio              : "PhD student in Algebraic Topology"
   location         : #"University of Copenhagen"
-  employer         : "University of Copenhagen"
+  employer         : #"University of Copenhagen"
   uri              : # URL
   email            : #"none@example.org" 
 
