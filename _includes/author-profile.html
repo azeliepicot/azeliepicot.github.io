@@ -56,6 +56,13 @@
       {% if author.orcid %}
         <li><a href="{{ author.orcid }}"><i class="ai ai-orcid ai-fw icon-pad-right"></i>ORCID</a></li>
       {% endif %}
+      {% if author.professional_page %}
+  <li>
+    <a href="{{ author.professional_page }}" target="_blank" rel="noopener noreferrer">
+      <i class="fas fa-university" aria-hidden="true"></i> Professional Page
+    </a>
+  </li>
+{% endif %}
       {% if author.pubmed %}
         <li><a href="{{ author.pubmed }}"><i class="ai ai-pubmed ai-fw icon-pad-right"></i>PubMed</a></li>
       {% endif %}                        
