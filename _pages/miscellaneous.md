@@ -11,7 +11,7 @@ hide_title: true
 # Conferences (co)organized
 
 ### 2025
-- [**Infinity-Operads and Applications to Geometr**](https://www.math.ku.dk/english/calendar/events/infinity-operads-and-manifolds/)[**y**](https://geotop.math.ku.dk) - August 2025 - Copenhagen - GeoTop Center
+- [**Infinity-Operads and Applications to Geometr**](https://www.math.ku.dk/english/calendar/events/infinity-operads-and-manifolds/)[**y**](https://azeliepicot.github.io/thesurfacemonster/) - August 2025 - Copenhagen - GeoTop Center
 
 - [**Cobordism categories: Building bridges between algebra and geometry**](https://www.math.ku.dk/english/calendar/events/cobordism-categories_copy/) - February 2025 - Copenhagen - GeoTop Center
 
