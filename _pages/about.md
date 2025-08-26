@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a second year Phd Student in Algebraic Topology at the University of Copenhagen, in the GeoTop center. My advisor is Søren Galatius. Broadly speaking, I am interested in Geometric Topology and its interactions with Homotopy Theory.
+I am a first (third) year grad student in Algebraic Topology at Columbia University. My advisor is Søren Galatius. Before that, I was a second year Phd Student at the University of Copenhagen, in the GeoTop center. Broadly speaking, I am interested in Geometric Topology and its interactions with Homotopy Theory.
 
-My email is azpi(at)math.ku.dk.
+You can now reach me at ap473(at)columbia(dot)edu.
 
 # Talks 
 
