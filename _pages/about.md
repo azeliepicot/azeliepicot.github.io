@@ -10,7 +10,7 @@ redirect_from:
 
 I am a first (third) year grad student in Algebraic Topology at Columbia University. My advisor is Søren Galatius. Before that, I was a second year Phd Student at the University of Copenhagen, in the GeoTop center. Broadly speaking, I am interested in Geometric Topology and its interactions with Homotopy Theory.
 
-You can now reach me at ap473(at)columbia(dot)edu.
+You can now reach me at ap4753(at)columbia(dot)edu.
 
 # Talks 
 
