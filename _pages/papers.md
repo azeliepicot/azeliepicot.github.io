@@ -7,4 +7,4 @@ description: "Page with list of preprints and publications, as well as links to 
 
 ---
 
-1. [**The homotopy type of the Poincaré cobordism category for surfaces**](https://arxiv.org/abs/2510.07659), 2025, arxiv
+1. [*The homotopy type of the Poincaré cobordism category for surfaces*](https://arxiv.org/abs/2510.07659), 2025, arxiv
