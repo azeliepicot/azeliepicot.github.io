@@ -19,7 +19,7 @@ hide_title: true
 
 ### 2026 
 
--**Manifolds and Homotopy Theory** - Spring 2026 - Columbia
+- **Manifolds and Homotopy Theory** - Spring 2026 - Columbia
 
 ### 2025
 
