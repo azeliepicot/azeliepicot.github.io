@@ -17,6 +17,10 @@ hide_title: true
 
 # Reading Seminars coorganized
 
+### 2026 
+
+-**Manifolds and Homotopy Theory** - Spring 2026 - Columbia
+
 ### 2025
 
 - **Chromatic Homotopy Theory** - Fall 2025 - Columbia
