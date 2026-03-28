@@ -17,4 +17,4 @@ You can now reach me at ap4753(at)columbia(dot)edu.
 - March 2026 - **The Poincaré Cobordism category for surfaces**, [UVA Topology Seminar](https://math.virginia.edu/seminars/topology/2025-26/) - Charlottesville
 - December 2025 - **Cobordism Categories, Goodwillie Calculus and Thom spectra**, [MHTRT seminar](https://sites.google.com/view/mhtrt) - Online
 - June 2025 - **Variations on the surface cobordism category** – [Young Topologists Meeting](https://www.math-stockholm.se/en/kalender/konferens/ytm2025-1.1350169) - Stockholm
-- May 2025 - **Excision properties of variations on the surface cobordism category** - [Columbia Algebraic Topology Seminar](https://lzyang257.github.io/organization-and-activities/seminar_spring2025/) - New York City
+- May 2025 - **Excision properties of variations on the surface cobordism category** - [C](https://azeliepicot.github.io/squirrel/)[olumbia Algebraic Topology Seminar](https://lzyang257.github.io/organization-and-activities/seminar_spring2025/) - New York City
