@@ -14,6 +14,7 @@ You can now reach me at ap4753(at)columbia(dot)edu.
 
 # Talks 
 
+- April 2026 - **The Poincaré Cobordism category and its first Goodwillie derivative**, [Manifolds and moduli](https://manifolds.math.tecnico.ulisboa.pt) - Lisbon
 - March 2026 - **The Poincaré Cobordism category for surfaces**, [UVA Topology Seminar](https://math.virginia.edu/seminars/topology/2025-26/) - Charlottesville
 - December 2025 - **Cobordism Categories, Goodwillie Calculus and Thom spectra**, [MHTRT seminar](https://sites.google.com/view/mhtrt) - Online
 - June 2025 - **Variations on the surface cobordism category** – [Young Topologists Meeting](https://www.math-stockholm.se/en/kalender/konferens/ytm2025-1.1350169) - Stockholm
