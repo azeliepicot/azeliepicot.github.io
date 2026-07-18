@@ -10,4 +10,4 @@ RAT stands for <span style="color:#ff9000">"Researchers Are Talking"</span>. üê
 
 We will meet in room <span style="color:#ff9000">(TBD)</span> on <span style="color:#ff9000">(TBD)</span> from <span style="color:#ff9000">(TBD)</span>.
 
-Please find below the schedule for Fall 2027: 
+Please find below the schedule for Fall 2026: 
