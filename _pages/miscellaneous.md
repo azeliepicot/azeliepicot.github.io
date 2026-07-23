@@ -19,6 +19,7 @@ hide_title: true
 
 ### 2026 
 
+-[**Baby Rat Seminar**](https://www.math.ku.dk/english/calendar/events/ratseminar/) - Fall 2026 - Columbia University
 - **Manifolds and Homotopy Theory** - Spring 2026 - Columbia
 
 ### 2025
