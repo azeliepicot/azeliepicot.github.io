@@ -12,7 +12,7 @@ Participants may give an hour talk about their research (invited seminar style) 
 
 There might be pizza! 🍕
 
-We will meet in room 528 on Mondays from 11:30 am to 12:30am.
+We will meet in room 528 on Mondays from 11:30 am to 12:30 pm.
 
 Please find below the schedule for Fall 2026: 
 
