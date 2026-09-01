@@ -12,6 +12,8 @@ Participants may give an hour talk about their research (invited seminar style) 
 
 There might be pizza! 🍕
 
-We will meet in room <span style="color:#ff9000">(TBD)</span> on <span style="color:#ff9000">(TBD)</span> from <span style="color:#ff9000">(TBD)</span>.
+We will meet in room 528 on Mondays from 11:30 am to 12:30am.
 
 Please find below the schedule for Fall 2026: 
+
+Monday September 14th: 
