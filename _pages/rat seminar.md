@@ -17,7 +17,9 @@ We will meet in room 528 on Mondays from 11:30 am to 12:30 pm.
 Please find below the schedule for Fall 2026: 
 
 Monday September 14th: **Tan Su**  
-*Title of Talk*  
-Abstract text here...
+*Title*  
+Abstract
 
-Monday September 21st: 
+Monday September 21st: **Speaker**  
+*Title*  
+Abstract
