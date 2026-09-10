@@ -22,7 +22,7 @@ Differential cohomology theories refine ordinary cohomology by keeping track not
 
 In this talk I will discuss a real analogue of this story for differential KO-theory. Starting from a real vector bundle with orthogonal connection, we construct a collection of (R mod Z)-valued eta invariants, together with (Z2)-valued index invariants, which completely classify the bundle and connection up to "chern-simons" equivalence thus determining its differential KO-class. We call this collection the differential KO-character.
 
-Monday September 21st: **Speaker**  
+Monday September 21st: **Alex Scheffelin**  
 *Title*  
 Abstract
 
