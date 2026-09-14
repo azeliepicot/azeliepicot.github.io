@@ -29,3 +29,15 @@ Abstract
 Monday September 28th: **Serena An**  
 *Title*  
 Abstract
+
+Monday October 5th: **TBD**  
+*Title*  
+Abstract
+
+Monday October 12th: **TBD**  
+*Title*  
+Abstract
+
+Monday October 19th: **Keita Allen (MIT)**  
+*Title*  
+Abstract
