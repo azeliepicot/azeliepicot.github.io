@@ -23,8 +23,8 @@ Differential cohomology theories refine ordinary cohomology by keeping track not
 In this talk I will discuss a real analogue of this story for differential KO-theory. Starting from a real vector bundle with orthogonal connection, we construct a collection of (R mod Z)-valued eta invariants, together with (Z2)-valued index invariants, which completely classify the bundle and connection up to "chern-simons" equivalence thus determining its differential KO-class. We call this collection the differential KO-character.
 
 Monday September 21st: **Alex Scheffelin**  
-*Title*  
-Abstract
+*The Second Vanishing Theorem in Ramified Mixed Characteristic*  
+Abstract: To a triple of a ring $R$, an $R$-module $M$, and an ideal $I$ we can associate the local cohomology modules $H^n_I(M)$. One classical problem dating back to a question of Grothendieck is to identify when these vanish for all $n > i$ and all modules $M$, the smallest such $i$ we denote the cohomological dimension of $R$ with respect to $I$. Grothendieck showed that this is bounded by $d = \dim R$, while a very simple condition on $\widehat{R}$ and $I\widehat{R}$ controls the vanishing at $d$. A more subtle topological condition controls the vanishing at $d-1$ for regular local rings as posed by Hartshorne in the late 60s, and was proven in equicharacteristic in the early 70s. After 50 years it was shown to be true in unramified mixed characteristic, and the main result of this talk is the ramified mixed characteristic case.
 
 Monday September 28th: **Serena An**  
 *Title*  
