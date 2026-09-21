@@ -32,7 +32,7 @@ Abstract: This talk is about an expository paper which appeared in the Columbia 
 
 The Burau representation, first introduced by Werner Burau in 1935, is a well-studied matrix representation of the braid group $B_n$ with connections to the Alexander polynomial. The Burau representation of $B_n$ is faithful for $n\le 4$ and unfaithful for $n\ge 5$, with the longstanding case of $n = 4$ resolved by Bharathram, Birman, and Brendle in 2026. 
 
-For $n = 3$ case, we consider whether the Burau representation $\psi_3\c B_3\to GL_{2}(\ZZ[t, t^{-1}])$ still faithful when $t$ is replaced with a real number. Following Scherich, we prove that it is faithful for all $t < 0$ with $t\neq -1$, while taking a surprising detour into hyperbolic geometry!
+For $n = 3$ case, we consider whether the Burau representation $\psi_3 : B_3\to GL_{2}(\mathbb{Z}[t, t^{-1}])$ still faithful when $t$ is replaced with a real number. Following Scherich, we prove that it is faithful for all $t < 0$ with $t\neq -1$, while taking a surprising detour into hyperbolic geometry!
 
 
 Monday October 5th: **TBD**  
