@@ -34,13 +34,11 @@ The Burau representation, first introduced by Werner Burau in 1935, is a well-st
 
 For $n = 3$ case, we consider whether the Burau representation $\psi_3 : B_3\to GL_{2}(\mathbb{Z}[t, t^{-1}])$ still faithful when $t$ is replaced with a real number. Following Scherich, we prove that it is faithful for all $t < 0$ with $t\neq -1$, while taking a surprising detour into hyperbolic geometry!
 
-Monday October 5th: **TBD**  
-*Title*  
-Abstract
+Monday October 5th: **No Talk**  
 
-Monday October 12th: **TBD**  
-*Title*  
-Abstract
+Monday October 12th: **Azélie Picot**  
+*TBD*  
+TBD
 
 Monday October 19th: **Keita Allen (MIT)**  
 *Title*  
