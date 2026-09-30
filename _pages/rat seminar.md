@@ -36,10 +36,23 @@ For $n = 3$ case, we consider whether the Burau representation $\psi_3 : B_3\to 
 
 Monday October 5th: **No Talk**  
 
-Monday October 12th: **Azélie Picot**  
+Monday October 12th: ****  
 *TBD*  
 TBD
 
 Monday October 19th: **Keita Allen (MIT)**  
 *Title*  
 Abstract
+
+Monday October 26th: **Azélie Picot**  
+*Title*  
+Abstract
+
+Monday November 2nd: **No talk (University Holiday)**
+
+Monday November 9th: ****  
+*Title*  
+Abstract
+
+
+
