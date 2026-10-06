@@ -37,8 +37,8 @@ For $n = 3$ case, we consider whether the Burau representation $\psi_3 : B_3\to 
 Monday October 5th: **No Talk**  
 
 Monday October 12th: **Azélie Picot**  
-*TBD*  
-TBD
+*From Geometry to Homotopy Theory*  
+A celebrated theorem of Thom states that classifying manifolds up to cobordism instead of diffeomorphism is fairly understandable. In this talk, I will describe the case of the homotopy-theoretic analogues of manifolds, aka Poincaré duality spaces. 
 
 Monday October 19th: **Keita Allen (MIT)**  
 *Title*  
