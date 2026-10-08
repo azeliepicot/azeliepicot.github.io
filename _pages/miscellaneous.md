@@ -19,7 +19,7 @@ hide_title: true
 
 ### 2026 
 
-- [**Baby R**](https://azeliepicot.github.io/ratseminar/) [**at Se**](https://www.youtube.com/shorts/UPXUG8q4jKU)[**minar**](https://azeliepicot.github.io/ratseminar/) - Fall 2026 - Columbia University
+- [**Baby R**](https://azeliepicot.github.io/ratseminar/)[**at Se**](https://www.youtube.com/shorts/UPXUG8q4jKU)[**minar**](https://azeliepicot.github.io/ratseminar/) - Fall 2026 - Columbia University
 - **Manifolds and Homotopy Theory** - Spring 2026 - Columbia
 
 ### 2025
