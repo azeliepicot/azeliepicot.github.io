@@ -11,7 +11,7 @@ hide_title: true
 
 ### 2026
 
-- **Lecturer for College Algebra[https://bulletin.columbia.edu/columbia-college/departments-instruction/mathematics/#coursestext]** - Fall 2026 - Columbia University 
+- **Lecturer for College Algebra** - [Fall 202](https://bulletin.columbia.edu/columbia-college/departments-instruction/mathematics/#coursestext)[6](https://www.moma.org/collection/works/291307) - Columbia University 
 
 ### 2025
 
