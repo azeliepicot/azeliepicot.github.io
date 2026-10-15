@@ -41,8 +41,9 @@ Monday October 12th: **Azélie Picot**
 A celebrated theorem of Thom states that classifying manifolds up to cobordism instead of diffeomorphism is fairly understandable. In this talk, I will describe the case for homotopy-theoretic analogues of manifolds, aka Poincaré duality spaces. 
 
 Monday October 19th: **Keita Allen (MIT)**  
-*Title*  
-Abstract
+*Evenness and equivariant motivic homotopy theory*  
+Work of Pstrągowski and Gheorghe-Isaksen-Krause-Ricka provide a description of (cellular, p-complete) motivic homotopy theory over \(\mathbb{C}\) which does not reference algebraic geometry, in terms of what have come to be known as synthetic spectra. This category can be thought as a categorification of the Adams-Novikov spectral sequence, which work of Hahn-Raksit-Wilson and Pstrągowski show is intimately connected to the notion of evenness of (ring) spectra. 
+I will discuss joint work with Lucas Piessevaux which shows that many aspects of this story can be generalized in the presence of the action of a finite abelian group, hopefully highlighting phenomena which are not as visible in the non-equivariant setting.
 
 Monday October 26th: **Sangmin Ko**  
 *Title*  
