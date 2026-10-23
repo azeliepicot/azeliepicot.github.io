@@ -46,8 +46,10 @@ Work of Pstrągowski and Gheorghe-Isaksen-Krause-Ricka provide a description of 
 I will discuss joint work with Lucas Piessevaux which shows that many aspects of this story can be generalized in the presence of the action of a finite abelian group, hopefully highlighting phenomena which are not as visible in the non-equivariant setting.
 
 Monday October 26th: **Sangmin Ko**  
-*Title*  
-Abstract
+*Efimov K-theory and the chromatic tower*  
+Algebraic K-theory plays a central role in algebra, geometry and topology. Classically, it is only useful for small categories. For large categories it breaks down: by the Eilenberg swindle, any category with infinite direct sums has trivial K-theory. Recently, Efimov introduced continuous K-theory (also known as Efimov K-theory), which gives meaningful answers for a large class of big categories, namely dualizable categories.
+
+In this talk, I will discuss the ideas behind his construction through examples, such as sheaves on $\mathbb{R}^n$ and the $p$-adic integers $\mathbb{Z}_p$. I’ll also explain how Efimov K-theory commutes with inverse limits of categories in nice situations. At the end, I’ll briefly describe my current project, which applies these ideas to the chromatic tower in stable homotopy theory.
 
 Monday November 2nd: **No talk (University Holiday)**
 
