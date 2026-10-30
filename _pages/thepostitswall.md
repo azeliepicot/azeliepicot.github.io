@@ -31,7 +31,7 @@ The post-its wall does not have a color code, however most greenish post-its are
 
 **Updates on the Post-Its**
 
-The post-its crossed the Atlantic! However, due to insufficient wall space (well, it's NYC after all - nobody has much wall space), they now live in a notebook. I continue making post-its every week, about things I learn. 
+The post-its crossed the Atlantic! However, due to insufficient wall space (well, it's NYC after all - nobody has much wall space), they now live in a notebook. I continue making post-its every week, about things I learn. Hopefully they don't contain too many mistakes! 
 
 <img src="/images/IMG_9530.jpeg" alt="The Post-Its books" width="700">
 
