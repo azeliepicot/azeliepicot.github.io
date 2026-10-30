@@ -29,4 +29,10 @@ Finally, here is the post-its wall with my rainbowlike post-its:
 
 The post-its wall does not have a color code, however most greenish post-its are about manifolds. 
 
+**Updates on the Post-Its**
+
+The post-its crossed the Atlantic! However, due to insufficient wall space (well, it's NYC after all - nobody has much wall space), they now live in a notebook. I continue making post-its every week, about things I learn. 
+
+<img src="/images/Post-Its-Rainbow.jpeg" alt="The post-its wall and a rainbow made of post-its" width="700">
+
 
