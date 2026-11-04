@@ -53,9 +53,10 @@ In this talk, I will discuss the ideas behind his construction through examples,
 
 Monday November 2nd: **No talk (University Holiday)**
 
-Monday November 9th: ****  
-*Title*  
-Abstract
+Monday November 9th: **Carlos Andrés Alvarado Álvarez**  
+**p-adic Adams Operations on Algebraic K-theory*
+We talk about some progress on constructing p-adic Adams operations on Algebraic K-theory.
+
 
 
 
