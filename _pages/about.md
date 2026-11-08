@@ -17,7 +17,8 @@ I am happy to be supported by a [Simons dissertation fellowship](https://www.sim
 
 # Talks 
 
-- November 2026 - **The cobordism category for Poincaré Duality spaces**, [N](https://azeliepicot.github.io/talk)[ortheast Conference on Categorical Methods](https://cmsa.fas.harvard.edu/event/cm/) - Cambridge, MA
+- November 2026 - **The cobordism category for Poincaré Duality spaces**, [N](https://azeliepicot.github.io/images/IMG_1382.JPEG
+)[ortheast Conference on Categorical Methods](https://cmsa.fas.harvard.edu/event/cm/) - Cambridge, MA
 - April 2026 - **The Poincaré Cobordism category and its first Goodwillie derivative**, [Manifolds and moduli](https://manifolds.math.tecnico.ulisboa.pt) - Lisbon
 - March 2026 - **The Poincaré Cobordism category for surfaces**, [UVA Topology Seminar](https://math.virginia.edu/seminars/topology/2025-26/) - Charlottesville
 - December 2025 - **Cobordism Categories, Goodwillie Calculus and Thom spectra**, [MHTRT seminar](https://sites.google.com/view/mhtrt) - Online
