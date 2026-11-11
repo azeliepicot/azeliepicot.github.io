@@ -57,6 +57,22 @@ Monday November 9th: **Carlos Andrés Alvarado Álvarez**
 *p-adic Adams Operations on Algebraic K-theory*
 We talk about some progress on constructing p-adic Adams operations on Algebraic K-theory.
 
+Monday November 16th: **TBA**  
+*TBD*
+TBA
+
+Monday November 23rd: **TBA**  
+*TBD*
+TBA
+
+Monday November 30th: **TBA**  
+*TBD*
+TBA
+
+Monday December 7th: **Sangmin Ko**  
+*TBD*
+TBA
+
 
 
 
