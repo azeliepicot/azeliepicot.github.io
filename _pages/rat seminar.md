@@ -73,6 +73,9 @@ Monday December 7th: **Sangmin Ko**
 *TBD*
 TBA
 
+Monday December 14th: **TBA**  
+*TBD*
+TBA
 
 
 
