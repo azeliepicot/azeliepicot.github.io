@@ -59,9 +59,7 @@ We talk about some progress on constructing p-adic Adams operations on Algebraic
 
 Monday November 16th: **No talk**  
 
-Monday November 23rd: **TBA**  
-*TBD*
-TBA
+Monday November 23rd: **No talk**  
 
 Monday November 30th: **TBA**  
 *TBD*
